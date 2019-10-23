@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomBottomBar</string>
+    <string name="item_0">Bookmark</string>
+    <string name="item_1">Likes</string>
+    <string name="item_2">Search</string>
+    <string name="item_3">Profile</string>
+</resources>
